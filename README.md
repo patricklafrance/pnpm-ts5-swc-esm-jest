@@ -1,6 +1,8 @@
 # pnpm-ts5-swc-esm-jest
 
-This POC is a continuation of the [pnpm-ts-swc-esm POC](https://github.com/patricklafrance/pnpm-ts-swc-esm). For learnings and observations about PNPM, TS 4, SWC, or ESM, have a look at the [pnpm-ts5-swc-esm-jest POC README](https://github.com/patricklafrance/pnpm-ts-swc-esm).
+This POC is a continuation of the [pnpm-ts-swc-esm POC](https://github.com/patricklafrance/pnpm-ts-swc-esm).
+
+For learnings and observations about PNPM, TS 4, SWC, or ESM, have a look at the [README](https://github.com/patricklafrance/pnpm-ts-swc-esm).
 
 ## TS v5
 
